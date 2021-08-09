@@ -4,3 +4,4 @@ teks3 ="yukbisayuk"
 
 teks1
 teks2
+teks3
